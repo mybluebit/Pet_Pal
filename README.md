@@ -1,2 +1,3 @@
-# Pet_Pal
-Pet Pal - Heroku Deployment
+# pet-pals
+
+This is a test of my pet pals app
